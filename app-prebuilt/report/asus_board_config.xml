@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<board_config>
+  <config name="BOARD_SYSTEMIMAGE_PARTITION_SIZE">2986344448</config>
+  <config name="BOARD_BOOTIMAGE_PARTITION_SIZE">0x04000000</config>
+</board_config>

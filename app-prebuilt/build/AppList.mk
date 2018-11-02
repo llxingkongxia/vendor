@@ -1,0 +1,148 @@
+#############################
+# Include apps according to variant projects/sku
+# Target Project:ZS620KL
+# Target Sku:WW
+#############################
+
+# amax-prebuilt for app-prebuilt
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/ASUSPartnerHomepageProvider-2.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusAnalytics-2.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusBlockedNumberProvider-1.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusBoost-1.2/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusCalculator-5.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusCamera-5.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusCellBroadcast-26.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusConfigUpdater-2.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusContacts-4.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusContactsProvider-1.9/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusDefaultTheme-4.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusDemoService-3.5/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusDemoUI-3.5/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusDeskClock-5.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusEasyLauncher-1.5/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusEmergencyHelp-1.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusEmergencyInfo-26.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusFMRadio-1.61/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusFMService-1.62/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusFaceUnlockService-1.3/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusGallery-2.7/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusGalleryBurst-2.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusInCallUI-26.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusKidsLauncher-1.3/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusLauncher-5.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusMediaProvider-8.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusPackageInstaller-8.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusSensorService-4.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusSetupWizard-5.6/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusSoundRecorder-1.9/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusSplendid-1.8/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusSplendidCommandAgent-1.2/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusSystemDiagnostic-1.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusSystemUI-1.19/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusThemeApp-1.8/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AsusVisualMaster-1.3/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AudioWizard-8.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/AudioWizardView-8.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/BRApps-1.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/BrowserGenie-1.3/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/CSCBatterySOH-1.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/DMClient-2.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/DriveActivator-1.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/FileManager-2.3/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/FocusAppListener-2.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/GameBroadcaster-5.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/GameBroadcasterService-2.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/HardwareStub-1.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/InadvertentTouch-1.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/Keyboard-1.4/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/Lockscreen-5.2/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/LogUploader-7.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/LogUploaderProxy-7.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/MobileManager-6.5/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/MobileManagerService-5.5/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/NextApp-1.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/NextAppCore-1.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/ParallaxLiveWallpaper-1.2/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/PowerSaving2-3.4/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/SUWTermsAndConditionsWebViewer-4.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/SelfieMaster-2.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/ShimProcess-1.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/SmartReading-1.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/StitchImage-2.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/StitchImageService-1.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/SystemMonitor-2.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/TaskManager-1.6/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/TextAnalyticsService-1.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/TwinApps-8.5/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/UpdateLauncher-8.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/WeatherTime-5.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/ZenUIHelp-2.4/Android.mk
+-include vendor/app-prebuilt/ZS620KL/amax-prebuilt/Zenimoji-2.0/Android.mk
+
+# 3rd_party for app-prebuilt
+-include vendor/app-prebuilt/ZS620KL/3rd_party/ATOKIME-1.0.8_arm_64bit/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/AsusDataTransfer-2.042.081/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/Babe-5.9.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/Facebook-27.0.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/FacebookAppManager-27.0.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/FacebookInstaller-27.0.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/FacebookMessenger-27.0.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/FlipfontFelbridge-6.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/FlipfontMFinanceTW-6.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/FlipfontMYingHei-6.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/FlipfontMYuppyTW-6.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/FlipfontSyndor-6.1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/GSuiteProps-1.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/Go2Pay-1.1.6/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/IBook-2.5.18.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/Instagram-27.0.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/MyASUS-3.4.6/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/PAIStub-1.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/WebStorage-1.2.0/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/YandexApp-6.45/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/YandexBrowser-18.3.1.663/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/ZenTalk-2.2.45_20180801/Android.mk
+-include vendor/app-prebuilt/ZS620KL/3rd_party/iFilter-1.1/Android.mk
+
+# google(GMS)- assign the other paths for Android.mk(do not belong to APK) for app-prebuilt
+-include vendor/app-prebuilt/ZS620KL/google/frameworks/MapView_v1/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/frameworks/GoogleMediaEffects/Android.mk
+
+# google for app-prebuilt
+-include vendor/app-prebuilt/ZS620KL/google/apps/CalendarGoogle/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/CantoneseIME/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/CarrierServices/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/Chrome/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/ConfigUpdater/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/Drive/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/Duo/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/Gmail2/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GmsCore/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GoogleBackupTransport/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GoogleCalendarSyncAdapter/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GoogleContactsSyncAdapter/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GoogleExtServices/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GoogleExtShared/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GoogleFeedback/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GoogleLens/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GoogleOneTimeInitializer/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GooglePackageInstaller/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GooglePartnerSetup/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GooglePay/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GooglePrintRecommendationService/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GoogleServicesFramework/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/GoogleTTS/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/LatinImeGoogle/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/Maps/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/Messages/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/Music2/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/Phonesky/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/Photos/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/SetupWizard/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/Velvet/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/Videos/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/WebViewGoogle/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/YouTube/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/ZhuyinIME/Android.mk
+-include vendor/app-prebuilt/ZS620KL/google/apps/talkback/Android.mk
+
